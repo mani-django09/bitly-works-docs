@@ -15,3 +15,5 @@ Bitly.works is a powerful URL shortener designed for marketers, developers, and 
 
 ### Authentication
 Use your API key in the headers:
+
+Visit Bitly.works for more information.
